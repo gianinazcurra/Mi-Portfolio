@@ -1,10 +1,10 @@
-# Mi Portafolio
+# Mi Portfolio
 
 ¡Hola! Soy una desarrolladora web freelance y profesora de inglés interesada en incursionar en el mundo IT. Actualmente estoy preparándome para la certificación OCA de Java y tengo experiencia en proyectos como un e-commerce de vinos, LibreriaWeb y una billetera virtual.
 
 ## Tecnologías y Habilidades
 
-- **Lenguajes**: Java, C++
+- **Lenguajes**: Java, Python para base de datos,HTML,CSS
 - **Frameworks**: SpringBoot
 - **Bases de Datos**: MySQL
 - **Herramientas**: JDBC, JDK
