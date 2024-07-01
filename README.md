@@ -20,6 +20,7 @@ Soy una desarrolladora web freelance y profesora de inglés interesada en incurs
 - **Herramientas:** 
   JDBC, JDK, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
 
 - **Extras:** Excelente manejo del idioma inglés, tanto oral como escrito, un plus para crear tus sitios en ambos idiomas.
 
@@ -32,6 +33,3 @@ Soy una desarrolladora web freelance y profesora de inglés interesada en incurs
 Puedes contactarme a través de [mi correo electrónico](mailto:gianina.azcurra8@gmail.com) o visitar mi [sitio web personal](https://gianinazcurra.github.io/Mi-Portfolio/) para más información.
 
 ¡Gracias por visitar mi perfil!
-
-
-
